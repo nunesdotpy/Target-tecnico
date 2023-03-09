@@ -13,4 +13,5 @@ b) Considerar 2 pedágios como obstáculo e que o caminhão leva 5 minutos a mai
 c) Explique como chegou no resultado.
 
 pergunta: Quando eles se cruzarem na rodovia, qual estará mais próximo a cidade de Ribeirão Preto?
-R: Como eles estão se cruzando, logo estão no mesmo ponto da via, não existe nesse momento um mais perto ou mais longe.
+
+Resposta: Como eles estão se cruzando, logo estão no mesmo ponto da via, não existe nesse momento um mais perto ou mais longe.
